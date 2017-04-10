@@ -4,7 +4,7 @@ Introdução
 O Que é o GNU Octave?
 ---------------------
 
-<span>O que é o GNU Octave?</span> De acordo com a Wikipedia,
+De acordo com a Wikipedia,
 
 > “GNU Octave é uma linguagem computacional, desenvolvida para
 > computação matemática. Possui uma interface em linha de comando para a
@@ -37,8 +37,6 @@ O Que é o GNU Octave?
 
 Para quem é esse minicurso?
 ---------------------------
-
-<span>Para que é esse minicurso?</span>
 
 -   Você tem acesso a um computador, smartphone, ou qualquer coisa que
     se conecte à internet?
